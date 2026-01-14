@@ -1,0 +1,7 @@
+{
+  "name": "知食",
+  "description": "一款极简的食品标签分析工具，利用AI提取配料和营养信息。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
